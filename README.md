@@ -1,4 +1,4 @@
-# Activity-Log-Pipeline
+# Activity Log Pipeline
 A production-ready data table for basic analysis (an SHS Company).
 
 This process switches seamlessly from Python to a MySQL Database by utilizing variables and use of SQL simultaneously
